@@ -1,0 +1,14 @@
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\bin\Debug\netcoreapp3.1\Square_of_figures.exe
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\bin\Debug\netcoreapp3.1\Square_of_figures.deps.json
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\bin\Debug\netcoreapp3.1\Square_of_figures.runtimeconfig.json
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\bin\Debug\netcoreapp3.1\Square_of_figures.runtimeconfig.dev.json
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\bin\Debug\netcoreapp3.1\Square_of_figures.dll
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\bin\Debug\netcoreapp3.1\Square_of_figures.pdb
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\obj\Debug\netcoreapp3.1\Square_of_figures.csproj.AssemblyReference.cache
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\obj\Debug\netcoreapp3.1\Square_of_figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\obj\Debug\netcoreapp3.1\Square_of_figures.AssemblyInfoInputs.cache
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\obj\Debug\netcoreapp3.1\Square_of_figures.AssemblyInfo.cs
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\obj\Debug\netcoreapp3.1\Square_of_figures.csproj.CoreCompileInputs.cache
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\obj\Debug\netcoreapp3.1\Square_of_figures.dll
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\obj\Debug\netcoreapp3.1\Square_of_figures.pdb
+C:\Users\Sanin2009\source\repos\Square_of_figures\Square_of_figures\obj\Debug\netcoreapp3.1\Square_of_figures.genruntimeconfig.cache

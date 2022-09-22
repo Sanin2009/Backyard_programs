@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Square_of_figures/1.0.0": {
+        "runtime": {
+          "Square_of_figures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Square_of_figures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
