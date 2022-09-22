@@ -1,0 +1,14 @@
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\obj\Debug\netcoreapp3.1\List_sum.csproj.AssemblyReference.cache
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\obj\Debug\netcoreapp3.1\List_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\obj\Debug\netcoreapp3.1\List_sum.AssemblyInfoInputs.cache
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\obj\Debug\netcoreapp3.1\List_sum.AssemblyInfo.cs
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\obj\Debug\netcoreapp3.1\List_sum.csproj.CoreCompileInputs.cache
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\bin\Debug\netcoreapp3.1\List_sum.exe
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\bin\Debug\netcoreapp3.1\List_sum.deps.json
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\bin\Debug\netcoreapp3.1\List_sum.runtimeconfig.json
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\bin\Debug\netcoreapp3.1\List_sum.runtimeconfig.dev.json
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\bin\Debug\netcoreapp3.1\List_sum.dll
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\bin\Debug\netcoreapp3.1\List_sum.pdb
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\obj\Debug\netcoreapp3.1\List_sum.dll
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\obj\Debug\netcoreapp3.1\List_sum.pdb
+C:\Users\Sanin2009\source\repos\List_sum\List_sum\obj\Debug\netcoreapp3.1\List_sum.genruntimeconfig.cache
