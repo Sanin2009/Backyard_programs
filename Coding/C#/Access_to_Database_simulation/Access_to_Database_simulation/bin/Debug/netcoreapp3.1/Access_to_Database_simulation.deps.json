@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Access_to_Database_simulation/1.0.0": {
+        "runtime": {
+          "Access_to_Database_simulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Access_to_Database_simulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

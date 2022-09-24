@@ -1,0 +1,16 @@
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\bin\Debug\netcoreapp3.1\Access_to_Database_simulation.exe
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\bin\Debug\netcoreapp3.1\Access_to_Database_simulation.deps.json
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\bin\Debug\netcoreapp3.1\Access_to_Database_simulation.runtimeconfig.json
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\bin\Debug\netcoreapp3.1\Access_to_Database_simulation.runtimeconfig.dev.json
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\bin\Debug\netcoreapp3.1\Access_to_Database_simulation.dll
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\bin\Debug\netcoreapp3.1\Access_to_Database_simulation.pdb
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\obj\Debug\netcoreapp3.1\Access_to_Database_simulation.csproj.AssemblyReference.cache
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\obj\Debug\netcoreapp3.1\Access_to_Database_simulation.csproj.GenerateResource.cache
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\obj\Debug\netcoreapp3.1\Access_to_Database_simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\obj\Debug\netcoreapp3.1\Access_to_Database_simulation.AssemblyInfoInputs.cache
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\obj\Debug\netcoreapp3.1\Access_to_Database_simulation.AssemblyInfo.cs
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\obj\Debug\netcoreapp3.1\Access_to_Database_simulation.csproj.CoreCompileInputs.cache
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\obj\Debug\netcoreapp3.1\Access_to_Database_simulation.dll
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\obj\Debug\netcoreapp3.1\Access_to_Database_simulation.pdb
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\obj\Debug\netcoreapp3.1\Access_to_Database_simulation.genruntimeconfig.cache
+C:\Users\Sanin2009\source\repos\Access_to_Database_simulation\Access_to_Database_simulation\obj\Debug\netcoreapp3.1\Access_to_Database_simulation.Form1.resources
