@@ -1,0 +1,12 @@
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\bin\Debug\Pilot_game.exe.config
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\bin\Debug\Pilot_game.exe
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\bin\Debug\Pilot_game.pdb
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\obj\Debug\Pilot_game.csproj.AssemblyReference.cache
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\obj\Debug\Pilot_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\obj\Debug\Pilot_game.Properties.Resources.resources
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\obj\Debug\Pilot_game.csproj.GenerateResource.cache
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\obj\Debug\Pilot_game.csproj.CoreCompileInputs.cache
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\obj\Debug\Pilot_game.exe
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\obj\Debug\Pilot_game.pdb
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\obj\Debug\Pilot_game.Form1.resources
+C:\Users\Sanin2009\source\repos\Pilot_game\Pilot_game\obj\Debug\Pilot_game.SizeForm.resources
