@@ -1,0 +1,16 @@
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\bin\Debug\netcoreapp3.1\Test_puzzle.exe
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\bin\Debug\netcoreapp3.1\Test_puzzle.deps.json
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\bin\Debug\netcoreapp3.1\Test_puzzle.runtimeconfig.json
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\bin\Debug\netcoreapp3.1\Test_puzzle.runtimeconfig.dev.json
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\bin\Debug\netcoreapp3.1\Test_puzzle.dll
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\bin\Debug\netcoreapp3.1\Test_puzzle.pdb
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\obj\Debug\netcoreapp3.1\Test_puzzle.csproj.AssemblyReference.cache
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\obj\Debug\netcoreapp3.1\Test_puzzle.Form1.resources
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\obj\Debug\netcoreapp3.1\Test_puzzle.csproj.GenerateResource.cache
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\obj\Debug\netcoreapp3.1\Test_puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\obj\Debug\netcoreapp3.1\Test_puzzle.AssemblyInfoInputs.cache
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\obj\Debug\netcoreapp3.1\Test_puzzle.AssemblyInfo.cs
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\obj\Debug\netcoreapp3.1\Test_puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\obj\Debug\netcoreapp3.1\Test_puzzle.dll
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\obj\Debug\netcoreapp3.1\Test_puzzle.pdb
+C:\Users\Sanin2009\source\repos\Test_puzzle\Test_puzzle\obj\Debug\netcoreapp3.1\Test_puzzle.genruntimeconfig.cache
