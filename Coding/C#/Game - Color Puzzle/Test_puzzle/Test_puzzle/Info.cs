@@ -15,9 +15,9 @@ namespace Test_puzzle
         public static List<PuzzleButton> buttonField = new List<PuzzleButton>();
         public static void Init()
         {
-            for (int i = 0; i <= size; i++) freeColors.Add(System.Drawing.Color.Blue);
-            for (int i = 0; i <= size; i++) freeColors.Add(System.Drawing.Color.Red);
-            for (int i = 0; i <= size; i++) freeColors.Add(System.Drawing.Color.Yellow);
+            for (int i = 1; i <= size; i++) freeColors.Add(System.Drawing.Color.Blue);
+            for (int i = 1; i <= size; i++) freeColors.Add(System.Drawing.Color.Red);
+            for (int i = 1; i <= size; i++) freeColors.Add(System.Drawing.Color.Yellow);
         }
     }
 }
